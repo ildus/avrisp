@@ -748,4 +748,8 @@ Wire Wire Line
 	6400 3600 6400 4400
 Wire Wire Line
 	6400 4400 7300 4400
+Text Label 8050 3300 0    60   ~ 0
+data-
+Text Label 8050 3400 0    60   ~ 0
+data+
 $EndSCHEMATC
